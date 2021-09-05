@@ -16,10 +16,10 @@
 ### ☑️ ***Installation***:
 
 ```
-$ apt update 
+$ apt update && apt upgrade
 ```
 ```
-$ apt install git curl -y
+$ apt install git 
 ```
 ```
 $ git clone https://github.com/rifkykd/Ip-Tracker.git
