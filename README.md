@@ -20,7 +20,10 @@ router configuration might be necessary (port mapping)
 > pkg install python3
 ```
 ```
-> git clone https://github.com/TermuxHackz/whatsapp-hacking
+> pkg install git
+```
+```
+> git clone https://github.com/rifkykd/Whatsapp-Hacking.git
 ```
 ```
 > cd whatsapp-hacking
