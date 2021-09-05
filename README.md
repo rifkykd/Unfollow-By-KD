@@ -22,13 +22,13 @@ $ apt update && apt upgrade
 $ apt install git 
 ```
 ```
-$ git clone https://github.com/rifkykd/Ip-Tracker.git
+$ git clone https://github.com/rifkykd/Hydra.git
 ```
 ```
-$ cd Ip-Tracker
+$ cd Hydra
 ```
 ```
-$ bash trackip
+$ bash Hydra.sh
 ```
 
 
