@@ -16,10 +16,10 @@
 ### ☑️ ***Installation***:
 
 ```
-$ apt update && apt upgrade
+$ pkg update && pkg upgrade
 ```
 ```
-$ apt install git 
+$ pkg install git 
 ```
 ```
 $ git clone https://github.com/rifkykd/Hydra.git
