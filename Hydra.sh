@@ -16,10 +16,7 @@ wget -q --spider https://hackerwasii.blogspot.com
 if [ "$?" -eq 0 ]; then
         echo -e $okegreen [✔]::[Internet Connection]: CONNECTED!;
         sleep 1
-else
-        echo -e $red [×]::[Internet Connection]: OFFLINE!;
-        echo -e $yellow   "Kindly connect With Internet or WIFI"
-        sleep 2
+
 exit
 fi
 ##########
