@@ -1,4 +1,4 @@
-# whatsapp-hacking
+<h1 align="center">Whatsapp-Hacking💻</h1>
 Hack whatsapp web via a cloned website
 
 ## Requirements
