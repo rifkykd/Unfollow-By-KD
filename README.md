@@ -9,7 +9,7 @@ Hack whatsapp web via a cloned website
 • Gecko Driver
 
 
-# Before Usage
+## Before Usage
 
 change the last line of the server.py script to fit your needs (if run on port 80, you might need to run as superuser)
 router configuration might be necessary (port mapping)
