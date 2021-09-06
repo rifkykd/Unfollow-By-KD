@@ -17,12 +17,14 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 banner() {
 clear
 printf " \e[0m\n"
-printf " \e[1;93m _   _        __      _ _                        \e[0m\n"
-printf " \e[1;93m| | | |      / _|    | | |                \e[1;92m   _   \e[0m\n"
-printf " \e[1;93m| | | |_ __ | |_ ___ | | | _____      __  \e[1;92m _| |_ \e[0m\n"
-printf " \e[1;93m| | | | '_ \|  _/ _ \| | |/ _ \ \ /\ / /  \e[1;92m|_   _|\e[0m\n"
-printf " \e[1;93m| |_| | | | | || (_) | | | (_) \ V  V /   \e[1;92m  |_|  \e[0m\n"
-printf " \e[1;93m \___/|_| |_|_| \___/|_|_|\___/ \_/\_/           \e[0m\n"
+printf " \e[1;93m _   _       __     _ _              ___        _  _____                       \e[0m\n"
+printf " \e[1;93m| | | |_ _  / _|___| | |_____ __ __ | _ )_  _  | |/ /   \         \e[0m\n"
+
+printf " \e[1;93m| |_| | ' \|  _/ _ \ | / _ \ V  V / | _ \ || | | ' <| |) |  \e[0m\n"
+printf " \e[1;93m \___/|_||_|_| \___/_|_\___/\_/\_/  |___/\_, | |_|\_\___/   \e[0m\n"
+printf " \e[1;93m                                         |__/              \e[0m\n"
+           
+
 printf " \e[0m\n"
 printf " \e[1;96m [\e[0m\e[1;97m+\e[0m\e[1;96m]\e[0m\e[1;92m Created By Rifky KD \e[0m\n"
 printf " \e[0m\n"
