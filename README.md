@@ -1,5 +1,5 @@
 <h1 align="center">Instagram Unfollower Bot</h1>
-Hack Your Haters Insta Profile 😈 
+
 <pre align="center">
  _   _       __     _ _              ___        _  _____    
 | | | |_ _  / _|___| | |_____ __ __ | _ )_  _  | |/ /   \   
@@ -7,6 +7,8 @@ Hack Your Haters Insta Profile 😈
  \___/|_||_|_| \___/_|_\___/\_/\_/  |___/\_, | |_|\_\___/   
                                         |__/             
 </pre>
+
+
 ### ☑️ ***Installation***:
 ```
 $ pkg update && pkg upgrade
