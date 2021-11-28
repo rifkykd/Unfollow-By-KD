@@ -51,7 +51,7 @@ $ bash unfollower.sh
 
 ### This Tool Was Created By :
 
-- [**Rifky KD**](https://github.com/rifkykd)
+- [**Rifky**](https://github.com/rifkykd)
 <h3 align="center">Educational Purpose Only</h3>
 
 
