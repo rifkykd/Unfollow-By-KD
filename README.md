@@ -52,9 +52,6 @@ $ bash unfollower.sh
   <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />
 </a>
 
-<br>
-
-<br/>
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd/Unfollow-By-KD" alt="visitor badge"/>
 </p>
