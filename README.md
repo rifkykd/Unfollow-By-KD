@@ -56,6 +56,6 @@ $ bash unfollower.sh
 
 <br/>
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd/Unfollow-By-KD" alt="visitor badge"/>
 </p>
 
