@@ -31,7 +31,6 @@ $ bash unfollower.sh
 
 - [**Rifky**](https://github.com/rifkykd)
 <h3 align="center">Educational Purpose Only</h3>
-<br>
 <h3 align="left">Connect with me</h3>
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>
@@ -51,7 +50,7 @@ $ bash unfollower.sh
 <a href="https://t.me/@rifky_kd" target="blank">
   <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />
 </a>
-
+<br>
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd/Unfollow-By-KD" alt="visitor badge"/>
 </p>
